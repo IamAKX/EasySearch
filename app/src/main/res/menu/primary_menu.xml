@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Camera Search"
+        android:id="@+id/camera_search" />
+    <item android:title="Image Search"
+        android:id="@+id/image_search" />
+</menu>
